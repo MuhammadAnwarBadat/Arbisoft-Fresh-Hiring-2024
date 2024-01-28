@@ -1,0 +1,27 @@
+The output will not always be "Error". The output should be as under:
+
+```
+Input 1:
+"r", "sw", "x", "g", "nm", "q", "yt", "z", "ab"
+1
+Cat
+
+Output 1:
+Error
+
+Input 2:
+"r", "sw", "x", "c", "nm", "q", "yt", "z", "ab"
+2
+099090770
+
+Output 2:
+Bat
+
+Input 3:
+"r", "sw", "x", "c", "nm", "q", "yt", "z", "ab"
+1
+bat
+
+Output 3:
+99090770
+```
